@@ -36,10 +36,5 @@
     "grunt-noflo-manifest": "~0.1.11",
     "mocha": "~1.21.0"
   },
-  "keywords": [],
-  "noflo": {
-    "components": {
-      "DoSomething": "components/DoSomething.coffee"
-    }
-  }
+  "keywords": []
 }

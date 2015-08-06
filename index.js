@@ -4,3 +4,5 @@
  * The library features can be made available as CommonJS modules that the
  * components in this project utilize.
  */
+
+console.log('hello world');

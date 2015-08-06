@@ -7,29 +7,21 @@
   "keywords": [],
   "dependencies": {
     "noflo/noflo": "*",
-    "noflo/noflo-dom": "*",
-    "noflo/noflo-core": "*",
-    "noflo/noflo-interaction": "*",
-    "noflo/noflo-runtime-webrtc": "*"
+    "noflo/noflo-runtime-webrtc": "*",
+    "wellaged/noflo-runtime-iframe-carneades": "*",
+    "wellaged/noflo-carneades": "*"
   },
-  "remotes": [
-    "https://raw.githubusercontent.com"
-  ],
+  "files": [],
   "scripts": [
-    "index.js",
-    "components/DoSomething.coffee",
-    "graphs/main.json"
+    "graphs/everything.json"
   ],
   "json": [
-    "graphs/main.json",
-    "component.json"
+    "component.json",
+    "graphs/everything.json"
   ],
   "noflo": {
     "graphs": {
-      "main": "graphs/main.json"
-    },
-    "components": {
-      "DoSomething": "components/DoSomething.coffee"
+      "everything": "graphs/everything.json"
     }
   }
 }

@@ -1,0 +1,17 @@
+{
+    "properties": {
+        "name": "main",
+        "environment": {
+            "type": "noflo-browser",
+            "content": "<!-- default -->"
+        },
+        "icon": ""
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {
+    },
+    "connections": [
+    ]
+}
