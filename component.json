@@ -1,14 +1,14 @@
 {
-  "name": "noflo-browser-app",
-  "description": "The best project ever.",
-  "author": "Jon Nordby <jononor@gmail.com>",
-  "repo": "noflo/noflo-browser-app",
+  "name": "noflo-browser-carneades",
+  "description": "Carneades browser runtime for NoFlo UI",
+  "author": "Andreas C. Osowski <andreas.osowski@fokus.fraunhofer.de>",
+  "repo": "wellaged/noflo-browser-carneades",
   "version": "0.1.0",
   "keywords": [],
   "dependencies": {
     "noflo/noflo": "*",
-    "noflo/noflo-runtime-webrtc": "*",
-    "wellaged/noflo-runtime-iframe-carneades": "*",
+    "wellaged/noflo-runtime-webrtc": "*",
+    "wellaged/noflo-runtime-carneades": "*",
     "wellaged/noflo-carneades": "*"
   },
   "files": [],

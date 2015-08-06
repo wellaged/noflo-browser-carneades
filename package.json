@@ -1,14 +1,14 @@
 {
-  "name": "noflo-browser-app",
-  "description": "The best project ever.",
+  "name": "noflo-browser-carneades",
+  "description": "Carneades browser runtime for NoFlo UI",
   "version": "0.1.0",
   "author": {
-    "name": "Jon Nordby",
-    "email": "jononor@gmail.com"
+    "name": "Andreas C. Osowski",
+    "email": "andreas.osowski@fokus.fraunhofer.de"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/noflo/noflo-browser-app.git"
+    "url": "git://github.com/wellaged/noflo-browser-carneades.git"
   },
   "licenses": [
     {
@@ -32,7 +32,7 @@
     "grunt-contrib-watch": "~0.6.1",
     "grunt-gh-pages": "^0.9.1",
     "grunt-mocha-phantomjs": "~0.2.2",
-    "grunt-noflo-browser": "^0.1.8",
+    "grunt-noflo-browser": "wellaged/grunt-noflo-browser",
     "grunt-noflo-manifest": "~0.1.11",
     "mocha": "~1.21.0"
   },
